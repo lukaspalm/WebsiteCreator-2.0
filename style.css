@@ -1,0 +1,117 @@
+:root {
+    --primary-background: #121212;
+    --secondary-background: #1E1E1E;
+    --primary-text: #E0E0E0;
+    --secondary-text: #B0B0B0;
+    --tertiary-text: #808080;
+    --primary-header: #FFFFFF;
+    --secondary-header: #CCCCCC;
+    --primary-border: #333333;
+    --secondary-border: #444444;
+    --card-background: #1E1E1E;
+    --modal-background: #232323;
+    --primary-accent: #BB86FC;
+    --secondary-accent: #03DAC6;
+    --error-accent: #CF6679;
+    --success-accent: #03B15B;
+    --warning-accent: #FFA000;
+    --hover-background: #292929;
+    --disabled-text: #555555;
+    --input-background: #262626;
+    --placeholder-text: #757575;
+}
+
+nav {
+    background-color: var(--secondary-background);
+}
+
+.main-content {
+    background-color: var(--primary-background);
+    width: 100vw;
+    border: 0;
+    margin: 0;
+}
+
+.action-box {
+    border: solid 3px var(--primary-accent);
+    border-radius: 20px;
+    text-align: center !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.action-button {
+    background-color: var(--primary-accent);
+    color: var(--primary-color);
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 650;
+    scale: 1.2;
+}
+
+.action-box-title {
+    color: var(--secondary-header);
+
+}
+
+.action-box-text {
+    color: var(--tertiary-text);
+    font-size: 1.2em;
+}
+
+.author {
+    color: var(--tertiary-text);
+    font-size: 1.2em;
+
+}
+
+
+@media screen and (max-width: 768px){
+    .logo {
+        width: 60vw;
+    }
+
+    .action-box {
+        width: 90vw;
+        height: 50vh;
+        > h1{
+            font-size: 1.8em;
+            margin: 15px 5px;
+        }
+    }
+
+    .action-box-text {
+        width: 80vw;
+    }
+
+    .main-content {
+        height: 100vh;
+    }   
+}
+    
+@media screen and (min-width: 769px){
+    .logo {
+        width: 25vw;
+    }
+
+    .action-box {
+        width: 45vw;
+        height: 55vh;
+    }
+
+    .action-box-text {
+        width: 60%;
+        font-size: 1.5em;
+    }
+
+    .main-content {
+        height: 100vh;
+    }
+}
+    
