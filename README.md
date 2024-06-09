@@ -1,3 +1,2 @@
 # WebsiteCreator-2.0
- A free, automated tool for creating websites. No download required. Simply go to [WebsiteCreator 2.0 Site](https://lukaspalm.github.io/WebsiteCreator-2.0) and follow the directions!  
- Have fun!
+ A free, automated tool for creating websites. More deatils will be available later into the development of this tool.
