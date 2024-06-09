@@ -71,6 +71,53 @@ nav {
 
 }
 
+body {
+    background-color: var(--primary-background);
+}
+
+h1 {
+    color: var(--primary-accent);
+}
+
+p {
+    color: var(--secondary-text);
+}
+
+.create-desc {
+    width: 50%;
+}
+
+.choose-category-button {
+    box-shadow: rgba(3, 218, 198, 0.16) 0px 10px 36px 0px, rgba(3, 218, 198, 0.06) 0px 0px 0px 1px;
+}
+
+.add-menu {
+    background-color: var(--secondary-background);
+}
+
+.outlined-add-button {
+    border: solid 1px var(--primary-accent);
+    color: var(--primary-accent);
+    background-color: var(--secondary-background);
+    font-weight: 550;
+    
+}
+
+.outlined-add-button:hover {
+    background-color: var(--primary-accent);
+}
+
+.outlined-finish-button {
+    border: solid 1px var(--secondary-accent);
+    color: var(--secondary-accent);
+    background-color: var(--secondary-background);
+    font-weight: 550;
+    
+}
+
+.outlined-finish-button:hover {
+    background-color: var(--secondary-accent);
+}
 
 @media screen and (max-width: 768px){
     .logo {
@@ -92,7 +139,11 @@ nav {
 
     .main-content {
         height: 100vh;
-    }   
+    }  
+    
+    .create-desc {
+        width: 80%;
+    }
 }
     
 @media screen and (min-width: 769px){
