@@ -113,10 +113,21 @@ p {
     background-color: var(--secondary-background);
     font-weight: 550;
     
+    
 }
 
 .outlined-finish-button:hover {
     background-color: var(--secondary-accent);
+}
+
+.options-space {
+    width: 80%;
+    min-height: 40vh;
+    height: fit-content;
+    border: solid 2px var(--primary-accent);
+    border-radius: 10px;
+    box-shadow: rgba(3, 218, 198, 0.16) 0px 10px 36px 0px, rgba(3, 218, 198, 0.06) 0px 0px 0px 1px;
+    margin-bottom: 5rem !important;
 }
 
 @media screen and (max-width: 768px){
@@ -143,6 +154,12 @@ p {
     
     .create-desc {
         width: 80%;
+    }
+
+    .options-space {
+        width: 95%;
+        min-height: 40vh;
+
     }
 }
     
