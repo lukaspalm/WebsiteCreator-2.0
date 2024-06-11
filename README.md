@@ -1,6 +1,8 @@
 # WebsiteCreator-2.0
 
-A free, automated tool for creating websites.
+A free, sophisticated and completely automated tool for creating websites. With a Web Interface and simple multiple-choice options.  
+> [!TIP]
+> If you feel something is missing or have a template or idea to contribute with, please contact me on discord `@lukaspalm`.
 
 ## Installation
 
@@ -32,7 +34,9 @@ python3 app.py
 &nbsp;
 ![create](https://github.com/lukaspalm/WebsiteCreator-2.0/assets/86203896/510db934-e27a-4d57-849e-e6f50f52e40f)  
 &nbsp;  
-**From here on you simply follow the instructions. Firstly, choose a navbar and press *"Add"*. Then choose the content of your page in the order you want it and press *"Add"* after selecting each component to add it to your site. Finally, add a footer and press *"Finish"* to download a .zip containting all page files you need.**
+**From here on you simply follow the instructions. Firstly, choose a navbar and press *"Add"*. Then choose the content of your page in the order you want it and press *"Add"* after selecting each component to add it to your site. Finally, add a footer and press *"Finish"* to download a .zip containting all page files you need.**  
+> [!NOTE]
+> After downloading you can simply go into the files and change the text and images to your liking!
 
 ## Contributing
 
