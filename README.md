@@ -24,11 +24,12 @@ Run *app.py*.
 python3 app.py
 ```
 Open [http://127.0.0.1:1337/](http://127.0.0.1:1337/)  
-![Image of index.html](https://github.com/lukaspalm/WebsiteCreator-2.0/tree/main/static/assets/images/index.png)
+![index](https://github.com/lukaspalm/WebsiteCreator-2.0/assets/86203896/f84aff31-95a6-4683-b503-a6282ada649f)
+
   
   
 Press *"Try it out"*, this will lead you to */create*.  
-![Image of index.html](https://github.com/lukaspalm/WebsiteCreator-2.0/tree/main/static/assets/images/create.png)
+![create](https://github.com/lukaspalm/WebsiteCreator-2.0/assets/86203896/510db934-e27a-4d57-849e-e6f50f52e40f)
 
 ## Contributing
 
