@@ -31,7 +31,8 @@ python3 app.py
 **Press *"Try it out"*, this will lead you to */create*.**  
 &nbsp;
 ![create](https://github.com/lukaspalm/WebsiteCreator-2.0/assets/86203896/510db934-e27a-4d57-849e-e6f50f52e40f)  
-&nbsp;
+&nbsp;  
+**From here on you simply follow the instructions. Firstly, choose a navbar and press *"Add"*. Then choose the content of your page in the order you want it and press *"Add"* after selecting each component to add it to your site. Finally, add a footer and press *"Finish"* to download a .zip containting all page files you need.**
 
 ## Contributing
 
