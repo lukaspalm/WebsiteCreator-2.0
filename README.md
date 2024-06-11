@@ -1,11 +1,18 @@
 # WebsiteCreator-2.0
 
-A free, sophisticated and completely automated tool for creating websites. With a Web Interface and simple multiple-choice options.  
+A free, sophisticated and completely automated tool for creating websites with a Web Interface and simple multiple-choice options.  
+&nbsp;
 > [!TIP]
 > If you feel something is missing or have a template or idea to contribute with, please contact me on discord `@lukaspalm`.
 
-## Installation
+> [!IMPORTANT]
+> There are not yet enough templates to build a full site. Wait for a release to ensure the tool is fully functional.
 
+## Installation
+> [!WARNING]
+> This will clone the in-development repo, which may not be completely functional or have missing templates. Soon there will be a release which is completely functional. The download instructions for the release will appear below.  
+
+&nbsp;
 Use [Git](https://www.git-scm.com/) to clone this repository to your machine.
 
 ```bash
