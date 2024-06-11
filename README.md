@@ -23,15 +23,15 @@ Run *app.py*.
 ```bash
 python3 app.py
 ```
-Open [http://127.0.0.1:1337/](http://127.0.0.1:1337/)  
+**Open [http://127.0.0.1:1337/](http://127.0.0.1:1337/)  **
 &nbsp;
-![index](https://github.com/lukaspalm/WebsiteCreator-2.0/assets/86203896/f84aff31-95a6-4683-b503-a6282ada649f)
+![index](https://github.com/lukaspalm/WebsiteCreator-2.0/assets/86203896/f84aff31-95a6-4683-b503-a6282ada649f)  
+&nbsp;
 
-  
-  
-Press *"Try it out"*, this will lead you to */create*.  
+**Press *"Try it out"*, this will lead you to */create*.**  
 &nbsp;
-![create](https://github.com/lukaspalm/WebsiteCreator-2.0/assets/86203896/510db934-e27a-4d57-849e-e6f50f52e40f)
+![create](https://github.com/lukaspalm/WebsiteCreator-2.0/assets/86203896/510db934-e27a-4d57-849e-e6f50f52e40f)  
+&nbsp;
 
 ## Contributing
 
